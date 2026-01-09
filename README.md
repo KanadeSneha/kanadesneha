@@ -33,9 +33,9 @@
 
 💼 **14**
 
-🔭 Currently working on **[AutomationExercisePractice](https://github.com/KanadeSneha/AutomationExercisePractice)**
+🔭 Currently working on **[BILLPAYPRACTICE](https://github.com/KanadeSneha/BILLPAYPRACTICE)**
 
-🌱 Currently learning **Rest Assured**
+🌱 Currently learning **Rest Assured, K6 Performance testing**
 
 💬 Ask me about **Playwright**
 
